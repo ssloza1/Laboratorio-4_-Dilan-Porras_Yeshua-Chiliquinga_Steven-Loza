@@ -107,6 +107,8 @@ Calculo de error del voltaje
 
 ## 4. VIDEO:
 
+https://youtu.be/CK4lbDKU3C4
+
 ## 5. CONCLUSIONES:
 
 •	El teorema de supeposición comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
