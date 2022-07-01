@@ -39,7 +39,71 @@ FECHA
 
 ![image](https://user-images.githubusercontent.com/104863870/176803452-ed9be4a0-13ed-4d29-a507-1c486ff30437.png)
 
-## 3. PROCEDIMIENTO:
+3. PROCEDIMIENTO:
+
+3.1.1. Arme el circuito que se muestra en la figura 2.1.
+
+![image](https://user-images.githubusercontent.com/104999420/176804502-ec4af90d-ad96-45da-bb56-b688f650c3a1.png)
+
+Figura 2.1. Circuito para comprobar el Teorema de Superposición.
+
+Circuito armado en tinkercad 
+
+![image](https://user-images.githubusercontent.com/104999420/176804528-16ff112d-5adf-4860-bd59-d0b9eb1a9c49.png)
+
+Figura 2.2. Circuito con las dos fuentes de voltaje y análisis de mallas.
+
+![image](https://user-images.githubusercontent.com/104999420/176804555-1e50b6f9-58fc-46d7-ae9a-47fc62b7119c.png)
+
+Figura 2.3. Circuito menos la fuente de voltaje V2 y con análisis de mallas 
+
+![image](https://user-images.githubusercontent.com/104999420/176804574-93dc977a-c942-4103-bb2b-b9505dbfedee.png)
+
+Figura 2.4. Circuito menos la fuente de voltaje V1 y con análisis de mallas 
+
+3.1.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+![image](https://user-images.githubusercontent.com/104999420/176804631-2d8f1d55-8433-49bf-b261-96c9b67701b1.png)
+
+Figura 2.5. Circuito con las dos fuentes de voltaje y análisis de mallas.
+
+<img width="213" alt="image" src="https://user-images.githubusercontent.com/104999420/176804658-1368a9d5-e151-4890-9eaf-7c29f9c69cd2.png">
+
+<img width="217" alt="image" src="https://user-images.githubusercontent.com/104999420/176804675-628b9be1-b663-4d7a-b3ba-9c2764f2f2ae.png">
+
+3.1.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+<img width="363" alt="image" src="https://user-images.githubusercontent.com/104999420/176804754-972bb6aa-8d49-4609-bc3b-f74ef9276223.png">
+
+<img width="217" alt="image" src="https://user-images.githubusercontent.com/104999420/176804793-dc809f39-efe7-400c-b3b9-cc3c7d825ddc.png">
+
+4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corrienteIX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+<img width="371" alt="image" src="https://user-images.githubusercontent.com/104999420/176804877-fda5b503-3794-4352-b48e-71595c9454c2.png">
+
+<img width="222" alt="image" src="https://user-images.githubusercontent.com/104999420/176804897-ca135b60-15de-424a-89c8-59f16192bb15.png">
+
+Tabla 4.1. Medición de voltaje aplicando superposición.
+
+<img width="381" alt="image" src="https://user-images.githubusercontent.com/104999420/176805100-d9b65f12-e3ec-4695-a568-74d5ef036775.png">
+
+Tabla 4.2. Medición de corriente aplicando superposición.
+
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/104999420/176805136-543da870-2935-4db8-b091-6c2f99e3b2c5.png">
+
+3.1.4. Verifique el cumplimiento del Teorema de Superposición y compare los
+resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
+
+Después de haber aplicado el teorema de superposición en el circuito propuesto, pues se pudo comprobar que, si se cumple, ya que al comparar con los resultados obtenidos del simulador nos damos cuenta de que los valores no tienen una gran diferencia y es por eso que a continuación se ha realizado el cálculo de margen de error para saber cuánto es el porcentaje que estas varían.
+
+Calcular errores de las mediciones y comentar los resultados.
+
+Calculo de error del voltaje
+
+<img width="429" alt="image" src="https://user-images.githubusercontent.com/104999420/176805226-30c32eff-7d90-47ec-8708-cbfdd3ed5b42.png">
+
+<img width="417" alt="image" src="https://user-images.githubusercontent.com/104999420/176805253-67451057-6d74-4d5a-a9ca-3d3400cc722c.png">
 
 ## 4. VIDEO:
 
