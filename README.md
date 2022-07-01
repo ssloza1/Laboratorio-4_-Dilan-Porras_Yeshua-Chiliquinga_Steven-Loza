@@ -122,3 +122,5 @@ https://youtu.be/CK4lbDKU3C4
 • En los cálculos tener muy en cuenta la formula del teorema de superposición ya que se desean los cálculos aplicando ese método tomar en cuenta la interrogante que nos pide encontrar y realizar cálculos preciosos, los componentes de experimento tener en cuenta y revisarlos antes de ponerlos en usa controlar el voltaje de entrada y realizar el trabajo con las indicaciones correspondientes.
 
 ## 7. BIBLIOGRAFÍA:
+
+Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
