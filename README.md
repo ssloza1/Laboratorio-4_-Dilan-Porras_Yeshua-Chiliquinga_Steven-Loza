@@ -36,6 +36,8 @@ FECHA
 
 ## 2. MARCO TEÓRICO:
 
+![image](https://user-images.githubusercontent.com/104863870/176803452-ed9be4a0-13ed-4d29-a507-1c486ff30437.png)
+
 ## 3. PROCEDIMIENTO:
 
 ## 4. VIDEO:
