@@ -15,9 +15,7 @@ INGENIERO:
 ESTUDIANTES:
 
 DILAN PORRAS
-
 STEVEN LOZA
-
 YESHUA CHILIQUINGA
 
 TEMA DEL LABORATORIO:
@@ -30,12 +28,13 @@ FECHA
 ## 1. OBJETIVOS:
 #### 1.1 OBJETIVO GENERAL:
 
-•	Describir y descubrir las caracteristicas de los teoremas de superposición correspondientes para lo cual se hace uso de la información teóricas proporcionada mediante el uso de sitios web y videos tutoriales.
-
-•	Analizar y calcular diferentes ejemplos de circuitos aplicando el teorema de superposición aprendido anteriormente en clases para lo cual se realizarán ejercicios experimentales para la comprobación mediante simuladores virtuales.
+•	Analizar y desarrollar ejercicios de circuitos eléctricos aplicados a el teorema de superposición para la descomposición de sus características las cuales permiten a las personas calcular de mejor manera y mas simplificada la variable desconocida mediante el uso de información teórica.
 
 #### 1.2 OBJETIVO ESPECIFICOS:
 
+•	Describir y descubrir las caracteristicas de los teoremas de superposición correspondientes para lo cual se hace uso de la información teóricas proporcionada mediante el uso de sitios web y videos tutoriales.
+
+•	Analizar y calcular diferentes ejemplos de circuitos aplicando el teorema de superposición aprendido anteriormente en clases para lo cual se realizarán ejercicios experimentales para la comprobación mediante simuladores virtuales.
 ## 2. MARCO TEÓRICO:
 
 ![image](https://user-images.githubusercontent.com/104863870/176803452-ed9be4a0-13ed-4d29-a507-1c486ff30437.png)
@@ -57,5 +56,3 @@ FECHA
 • En los cálculos tener muy en cuenta la formula del teorema de superposición ya que se desean los cálculos aplicando ese método tomar en cuenta la interrogante que nos pide encontrar y realizar cálculos preciosos, los componentes de experimento tener en cuenta y revisarlos antes de ponerlos en usa controlar el voltaje de entrada y realizar el trabajo con las indicaciones correspondientes.
 
 ## 7. BIBLIOGRAFÍA:
-
-Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
