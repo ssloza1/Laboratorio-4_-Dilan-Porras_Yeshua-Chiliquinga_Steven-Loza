@@ -84,7 +84,7 @@ Figura 2.5. Circuito con las dos fuentes de voltaje y análisis de mallas.
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
-<img width="381" alt="image" src="https://user-images.githubusercontent.com/104999420/176805100-d9b65f12-e3ec-4695-a568-74d5ef036775.png">
+<img width="449" alt="image" src="https://user-images.githubusercontent.com/104999420/177377845-867ccf0d-557a-49b3-b059-df613b9bb6a3.png">
 
 Tabla 4.2. Medición de corriente aplicando superposición.
 
@@ -100,7 +100,7 @@ Calcular errores de las mediciones y comentar los resultados.
 
 Calculo de error del voltaje
 
-<img width="512" alt="image" src="https://user-images.githubusercontent.com/104999420/177377448-ce742a7e-d87b-4642-a2a3-074b7c09f8e1.png">
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/104999420/177377675-3c1cd3d7-80b2-4b66-84f9-ec7f563652a6.png">
 
 <img width="417" alt="image" src="https://user-images.githubusercontent.com/104999420/176805253-67451057-6d74-4d5a-a9ca-3d3400cc722c.png">
 
