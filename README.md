@@ -100,7 +100,7 @@ Calcular errores de las mediciones y comentar los resultados.
 
 Calculo de error del voltaje
 
-<img width="429" alt="image" src="https://user-images.githubusercontent.com/104999420/176805226-30c32eff-7d90-47ec-8708-cbfdd3ed5b42.png">
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/104999420/177377448-ce742a7e-d87b-4642-a2a3-074b7c09f8e1.png">
 
 <img width="417" alt="image" src="https://user-images.githubusercontent.com/104999420/176805253-67451057-6d74-4d5a-a9ca-3d3400cc722c.png">
 
