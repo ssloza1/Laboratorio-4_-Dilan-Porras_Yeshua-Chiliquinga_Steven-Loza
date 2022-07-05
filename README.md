@@ -67,19 +67,18 @@ Figura 2.4. Circuito menos la fuente de voltaje V1 y con análisis de mallas
 
 Figura 2.5. Circuito con las dos fuentes de voltaje y análisis de mallas.
 
-<img width="213" alt="image" src="https://user-images.githubusercontent.com/104999420/176804658-1368a9d5-e151-4890-9eaf-7c29f9c69cd2.png">
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/104999420/177374120-dfff90d9-e628-4564-ac47-8d2e8d3f777e.png">
 
 <img width="217" alt="image" src="https://user-images.githubusercontent.com/104999420/176804675-628b9be1-b663-4d7a-b3ba-9c2764f2f2ae.png">
 
 3.1.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
-
-<img width="363" alt="image" src="https://user-images.githubusercontent.com/104999420/176804754-972bb6aa-8d49-4609-bc3b-f74ef9276223.png">
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/104999420/177374214-74ad6d01-043b-47e1-bc7d-1bb8d7ad542a.png">
 
 <img width="217" alt="image" src="https://user-images.githubusercontent.com/104999420/176804793-dc809f39-efe7-400c-b3b9-cc3c7d825ddc.png">
 
-4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corrienteIX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+3.1.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corrienteIX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-<img width="371" alt="image" src="https://user-images.githubusercontent.com/104999420/176804877-fda5b503-3794-4352-b48e-71595c9454c2.png">
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/104999420/177374278-b1687d7e-df18-47e0-b6a5-6eb0fe484807.png">
 
 <img width="222" alt="image" src="https://user-images.githubusercontent.com/104999420/176804897-ca135b60-15de-424a-89c8-59f16192bb15.png">
 
@@ -91,7 +90,7 @@ Tabla 4.2. Medición de corriente aplicando superposición.
 
 <img width="382" alt="image" src="https://user-images.githubusercontent.com/104999420/176805136-543da870-2935-4db8-b091-6c2f99e3b2c5.png">
 
-3.1.4. Verifique el cumplimiento del Teorema de Superposición y compare los
+3.1.5. Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
 conclusiones.
 
